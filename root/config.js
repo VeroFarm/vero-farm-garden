@@ -1,4 +1,10 @@
 {
+  "banner": {
+    "is_active": true,
+    "accept_close": true,
+    "img_url": "/images/banner-game.png",
+    "link_to": "https://docs.verofarm.com/introduction/transparent/ido-whitelists"
+  },
   "collectionsVero": {
     "attribute": [
       {
