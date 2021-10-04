@@ -27,19 +27,19 @@
       {
         "AER": {
           "name": "Kano",
-          "cover": "/images2/veros/lv0/0.gif"
+          "cover": "http://localhost:3000/images2/veros/lv0/0.gif"
         },
         "TERRA": {
           "name": "Ono",
-          "cover": "/images2/veros/lv0/1.gif"
+          "cover": "http://localhost:3000/images2/veros/lv0/1.gif"
         },
         "IGNIS": {
           "name": "Taka",
-          "cover": "/images2/veros/lv0/2.gif"
+          "cover": "http://localhost:3000/images2/veros/lv0/2.gif"
         },
         "AQUA": {
           "name": "Sake",
-          "cover": "/images2/veros/lv0/3.gif"
+          "cover": "http://localhost:3000/images2/veros/lv0/3.gif"
         }
       },
       {
