@@ -45,37 +45,55 @@
       {
         "AER": {
           "name": "Sunflower angel",
-          "cover": "https://github.com/VeroFarm/vero-farm-garden/blob/main/root/assets/lv1/0.gif"
+          "cover": "http://localhost:3000/images2/veros/lv1-10/0.gif"
         },
         "TERRA": {
           "name": "Garlic angel",
-          "cover": "/images2/veros/lv1/1.gif"
+          "cover": "http://localhost:3000/images2/veros/lv1-10/1.gif"
         },
         "IGNIS": {
           "name": "Cactus angel",
-          "cover": "https://github.com/VeroFarm/vero-farm-garden/blob/main/root/assets/lv1/2.gif"
+          "cover": "http://localhost:3000/images2/veros/lv1-10/2.gif"
         },
         "AQUA": {
           "name": "Cabbage angel",
-          "cover": "/images2/veros/lv1/3.gif"
+          "cover": "http://localhost:3000/images2/veros/lv1-10/3.gif"
         }
       },
       {
         "AER": {
           "name": "Sunflower angel",
-          "cover": "/images2/veros/lv2/0.gif"
+          "cover": "http://localhost:3000/images2/veros/lv1-10/0.gif"
         },
         "TERRA": {
           "name": "Garlic angel",
-          "cover": "/images2/veros/lv2/1.gif"
+          "cover": "http://localhost:3000/images2/veros/lv1-10/1.gif"
         },
         "IGNIS": {
           "name": "Cactus angel",
-          "cover": "/images2/veros/lv2/2.gif"
+          "cover": "http://localhost:3000/images2/veros/lv1-10/2.gif"
         },
         "AQUA": {
           "name": "Cabbage angel",
-          "cover": "/images2/veros/lv2/3.gif"
+          "cover": "http://localhost:3000/images2/veros/lv1-10/3.gif"
+        }
+      },
+      {
+        "AER": {
+          "name": "Sunflower angel",
+          "cover": "http://localhost:3000/images2/veros/lv1-10/0.gif"
+        },
+        "TERRA": {
+          "name": "Garlic angel",
+          "cover": "http://localhost:3000/images2/veros/lv1-10/1.gif"
+        },
+        "IGNIS": {
+          "name": "Cactus angel",
+          "cover": "http://localhost:3000/images2/veros/lv1-10/2.gif"
+        },
+        "AQUA": {
+          "name": "Cabbage angel",
+          "cover": "http://localhost:3000/images2/veros/lv1-10/3.gif"
         }
       }
     ]
