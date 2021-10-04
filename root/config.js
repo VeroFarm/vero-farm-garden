@@ -27,19 +27,19 @@
       {
         "AER": {
           "name": "Kano",
-          "cover": "http://localhost:3000/images2/veros/lv0/0.gif"
+          "cover": "https://gardent-demo.verofarm.com/images2/veros/lv0/0.gif"
         },
         "TERRA": {
           "name": "Ono",
-          "cover": "http://localhost:3000/images2/veros/lv0/1.gif"
+          "cover": "https://gardent-demo.verofarm.com/images2/veros/lv0/1.gif"
         },
         "IGNIS": {
           "name": "Taka",
-          "cover": "http://localhost:3000/images2/veros/lv0/2.gif"
+          "cover": "https://gardent-demo.verofarm.com/images2/veros/lv0/2.gif"
         },
         "AQUA": {
           "name": "Sake",
-          "cover": "http://localhost:3000/images2/veros/lv0/3.gif"
+          "cover": "https://gardent-demo.verofarm.com/images2/veros/lv0/3.gif"
         }
       },
       {
