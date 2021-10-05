@@ -5,6 +5,33 @@
     "img_url": "/images/banner-game.png",
     "link_to": "https://docs.verofarm.com/introduction/transparent/ido-whitelists"
   },
+  "notification": {
+    "is_active": true,
+    "auto-open": false,
+    "title": "NOTIFICATIONS",
+    "content": [
+      {
+        "is_complete": true,
+        "title": "You just received a drop of water",
+        "time": "Tue Oct 05 2021 10:18:07 GMT+0700"
+      },
+      {
+        "is_complete": true,
+        "title": "Your Vero catching to the level 2",
+        "time": "Tue Oct 05 2021 10:18:07 GMT+0700"
+      },
+      {
+        "is_complete": false,
+        "title": "You just received a drop of water",
+        "time": "Tue Oct 05 2021 10:18:07 GMT+0700"
+      },
+      {
+        "is_complete": true,
+        "title": "You just received a drop of water",
+        "time": "Tue Oct 05 2021 10:18:07 GMT+0700"
+      }
+    ]
+  },
   "collectionsVero": {
     "attribute": [
       {
