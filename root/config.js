@@ -12,23 +12,8 @@
     "content": [
       {
         "is_complete": true,
-        "title": "You just received a drop of water",
-        "time": "Tue Oct 05 2021 10:28:07 GMT+0700"
-      },
-      {
-        "is_complete": true,
-        "title": "Your Vero catching to the level 2",
-        "time": "Tue Oct 05 2021 10:18:07 GMT+0700"
-      },
-      {
-        "is_complete": false,
-        "title": "You just received a drop of water",
-        "time": "Tue Oct 04 2021 10:18:07 GMT+0700"
-      },
-      {
-        "is_complete": true,
-        "title": "You just received a drop of water",
-        "time": "Tue Oct 03 2021 10:18:07 GMT+0700"
+        "title": "Welcom to Vero Gardent!",
+        "time": "Tue Oct 05 2021 13:30:00 GMT+0700"
       }
     ]
   },
