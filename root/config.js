@@ -12,7 +12,7 @@
     "content": [
       {
         "is_complete": true,
-        "title": "Welcom to Vero Gardent!",
+        "title": "Welcome to Vero Garden!",
         "time": "Tue Oct 05 2021 13:30:00 GMT+0700"
       }
     ]
