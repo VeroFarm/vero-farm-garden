@@ -7,7 +7,7 @@
   },
   "notification": {
     "is_active": true,
-    "auto-open": false,
+    "auto_open": false,
     "title": "NOTIFICATIONS",
     "content": [
       {
