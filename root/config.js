@@ -5,6 +5,20 @@
     "img_url": "/images/banner-game.png",
     "link_to": "https://docs.verofarm.com/introduction/transparent/ido-whitelists"
   },
+  "menuDropdown": [
+    {
+      "label": "Leader Board",
+      "href": "/leader-board",
+      "icon": "",
+      "target": ""
+    },
+    {
+      "label": "Reward History",
+      "href": "/reward-history",
+      "icon": "",
+      "target": ""
+    }
+  ],
   "notification": {
     "is_active": true,
     "auto_open": false,
