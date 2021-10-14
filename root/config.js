@@ -9,13 +9,13 @@
     {
       "label": "Leader Board",
       "href": "/leader-board",
-      "icon": "",
+      "icon": "show",
       "target": ""
     },
     {
       "label": "Reward History",
       "href": "/reward-history",
-      "icon": "",
+      "icon": "show",
       "target": ""
     }
   ],
