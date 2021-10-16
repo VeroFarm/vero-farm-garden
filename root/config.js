@@ -7,6 +7,12 @@
   },
   "menuDropdown": [
     {
+      "label": "Veros List",
+      "href": "/",
+      "icon": true,
+      "target": ""
+    },
+    {
       "label": "Leader Board",
       "href": "/leader-board",
       "icon": true,
