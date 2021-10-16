@@ -13,8 +13,8 @@
       "target": ""
     },
     {
-      "label": "Reward History",
-      "href": "/reward-history",
+      "label": "Magic Water",
+      "href": "/buy-exp",
       "icon": true,
       "target": ""
     }
