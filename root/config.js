@@ -11,12 +11,6 @@
       "href": "/leader-board",
       "icon": true,
       "target": ""
-    },
-    {
-      "label": "Magic Water",
-      "href": "/buy-exp",
-      "icon": true,
-      "target": ""
     }
   ],
   "notification": {
