@@ -25,6 +25,11 @@
     "title": "NOTIFICATIONS",
     "content": [
        {
+         "is_complete": true,
+         "title": "Veroers can Buy Exp to get higher rank",
+         "time": "Fri Oct 22 2021 23:25:00 GMT+0700"
+       },
+       {
         "is_complete": true,
         "title": "System will temporarily maintenance from 14:00, Oct 10 to 14:00, Oct 11 (UTC)",
         "time": "Sun Oct 10 2021 19:15:00 GMT+0700"
